@@ -1,0 +1,14 @@
+.form{
+    outline:auto;
+    background-color: rgb(165, 184, 253);
+    color: black;
+    margin-top: 5%;
+    display:inline-block
+}
+
+body{
+    font-size: 35px;
+    text-align: center;
+    background-image: url(https://img.freepik.com/vector-gratis/plantilla-formulario-registro-diseno-plano_23-2147971971.jpg?w=2000) ;
+    background-size: cover;
+}
